@@ -1,5 +1,8 @@
 # INSERTAR TEXTO, IMÁGENES Y CAMBIAR ESTILOS DINÁMICAMENTE.
 
+En el archivo index.html se crea de forma estática un div contenedor ("tarjeta") y se le asignan estilos en CSS.
+Desde JavaScript se cambiarán los estilos y el contenido de la tarjeta cuando el usuario haga clic en ella.
+
 - Inicialmente se carga una tarjeta con un precio, imagen y descripción.
 
   ![image](https://user-images.githubusercontent.com/66112531/184160232-32f8a8db-9dfd-4576-a2b3-1f432f09376c.png)
