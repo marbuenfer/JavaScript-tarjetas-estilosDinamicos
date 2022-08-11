@@ -9,11 +9,11 @@
   
    ![image](https://user-images.githubusercontent.com/66112531/184160299-72b9b164-4d4b-46be-948a-796a1bfc729d.png)
    
-  - Una segunda vez se añade una imagen a la tarjeta (permanece la anterior), se cambia el precio, la descripción y el estilo.
+  - Una segunda vez, se añade una imagen a la tarjeta (permanece la anterior), se cambia el precio, la descripción y el estilo.
   
   ![image](https://user-images.githubusercontent.com/66112531/184160361-6589354c-b077-46ac-9377-2829e582be92.png)
   
-  - Una tercera vez se vuelve a la tarjeta inicial y se repite el proceso.
+  - Una tercera vez, se cambia estilo y se vuelve a la tarjeta inicial, se repite el proceso.
   
   ![image](https://user-images.githubusercontent.com/66112531/184160232-32f8a8db-9dfd-4576-a2b3-1f432f09376c.png)
   
